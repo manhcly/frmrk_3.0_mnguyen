@@ -1,0 +1,24 @@
+diff -r ../VAL_SW_merged/apm-centos/arch/arm64/configs/xgene_defconfig /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/arch/arm64/configs/xgene_defconfig
+3c3
+< # Linux/arm64 4.5.0-27.el7.170727+apm.ilp32.aarch64 Kernel Configuration
+---
+> # Linux/arm64 4.5.0-27.el7.170817+apm.ilp32.aarch64 Kernel Configuration
+1015c1015,1016
+< # CONFIG_MTD_BLOCK is not set
+---
+> CONFIG_MTD_BLKDEVS=m
+> CONFIG_MTD_BLOCK=m
+1030c1031
+< # CONFIG_MTD_CFI is not set
+---
+> CONFIG_MTD_CFI=y
+1044,1046c1045,1047
+< # CONFIG_MTD_CFI_INTELEXT is not set
+< # CONFIG_MTD_CFI_AMDSTD is not set
+< # CONFIG_MTD_CFI_STAA is not set
+---
+> CONFIG_MTD_CFI_INTELEXT=y
+> CONFIG_MTD_CFI_AMDSTD=y
+> CONFIG_MTD_CFI_STAA=y
+1055a1057
+> CONFIG_MTD_PHYSMAP=y

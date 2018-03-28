@@ -1,0 +1,27 @@
+Files ../VAL_SW_merged/apm-centos/arch/arm64/configs/xgene_defconfig and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/arch/arm64/configs/xgene_defconfig differ
+Files ../VAL_SW_merged/apm-centos/drivers/usb/host/xhci.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/drivers/usb/host/xhci.c differ
+Only in ../VAL_SW_merged/apm-centos/drivers/usb/host: xhci.c.orig
+Only in ../VAL_SW_merged/apm-centos/: .git
+Only in /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter: HVN5U00~.H
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_connmark.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_connmark.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_dscp.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_dscp.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_DSCP.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_DSCP.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_mark.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_mark.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_MARK.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_MARK.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_rateest.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_rateest.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_RATEEST.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_RATEEST.h differ
+Only in /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter: XT_TCP~3.H
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter/xt_tcpmss.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter/xt_tcpmss.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter_ipv4/ipt_ecn.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter_ipv4/ipt_ecn.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter_ipv4/ipt_ECN.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter_ipv4/ipt_ECN.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter_ipv4/ipt_ttl.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter_ipv4/ipt_ttl.h differ
+Files ../VAL_SW_merged/apm-centos/include/uapi/linux/netfilter_ipv4/ipt_TTL.h and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/include/uapi/linux/netfilter_ipv4/ipt_TTL.h differ
+Only in /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/: .mailmap
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_dscp.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_dscp.c differ
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_DSCP.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_DSCP.c differ
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_hl.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_hl.c differ
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_HL.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_HL.c differ
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_rateest.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_rateest.c differ
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_RATEEST.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_RATEEST.c differ
+Only in /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter: XT_TCP~3.C
+Files ../VAL_SW_merged/apm-centos/net/netfilter/xt_tcpmss.c and /projects/hcm/skylark/users/mnguyen/o_xval_skylark/linux_frw/linux/net/netfilter/xt_tcpmss.c differ

@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+script=./parser.py
+
+START=$(date +%s)
+# do something
+# start your script work here
+#exec $script $*
+$script $* | tee log
+# your logic ends here
+END=$(date +%s)
+DIFF=$(( $END - $START ))
+
+
+echo "Process done in $DIFF seconds"
+
+
+
